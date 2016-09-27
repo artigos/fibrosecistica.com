@@ -3,9 +3,9 @@ layout: default
 title: Novos medicamentos para a fibrose cística
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Características não suspeitas da nova medicação encontrada para a fibrose cística, oferece potenciais caminhos para terapias mais eficazes.
+## Características não suspeitas da nova medicação encontrada para a fibrose cística, oferece potenciais caminhos para terapias mais eficazes.
 
 Um grande ensaio clínico fase 3 de testes para pacientes com fibrose cística foi concluído, mostrando que uma combinação de duas novas drogas para a fibrose cística melhora a função pulmonar e oferece melhores resultados para a saúde de alguns pacientes. Agora, os cientistas provaram que um destes medicamentos neutraliza o efeito benéfico molecular prevista da outra.
 

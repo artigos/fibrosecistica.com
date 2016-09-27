@@ -4,7 +4,7 @@ title: Prognóstico da Fibrose Cística
 permalink: fibrose-cistica-prognostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Nos últimos anos tem-se conseguido aumentar a esperança de vida destas pessoas, mas no entanto é dificil a sobrevivência após os 30 anos.
 

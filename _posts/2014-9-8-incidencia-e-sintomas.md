@@ -4,11 +4,11 @@ title: Incidência e Sintomas da Fibrose Cística
 permalink: fibrose-cistica-incidencia-e-sintomas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A __incidência__ da patologia em causa é variável de acordo com a população estudada, sendo razoável a incidência de um para 2500 (1/2500), com freqüência de um portador do gene em 40 pessoas na raça branca (1/40). A doença é pouco freqüente na raça negra um para 17 mil negros americanos (1/17000) e rara em orientais um para 90 mil (1/90000).  Apesar disso a fibrose cística ocorre em todas as raças.
 
-##Sintomas da Fibrose Cistica
+## Sintomas da Fibrose Cistica
 
 Em relação ao __aparelho digestivo__, ocorre insuficiência pancreática, por obstrução dos ductos excretores da glândula, ocasionando síndrome de má-absorção, cirrose biliar, obstrução intestinal distal por estase fecal e, frequentemente, refluxo. Cerca de 10 a 15% dos pacientes com __Fibrose Cistica__ apresentam a primeira manifestação digestiva da doença logo ao nascimento, quando ocorre o íleo meconial (obstrução intestinal nos primeiros dias após o nascimento) .
 

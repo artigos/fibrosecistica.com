@@ -4,7 +4,7 @@ title: Diagnóstico da Fibrose Cística
 permalink: fibrose-cistica-diagnostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os primeiros programas de Rastreamento para a __Fibrose Cística__ foram instituídos em 1979 e tinham por base o diagnóstico precoce e a possibilidade de alterar a evolução da Doença, no paciente afetado, pela instituição de medidas de apoio e terapia profilática, além da oportunidade de prevenir, através do aconselhamento genético, a expansão da prole de pais afetados. Mundialmente implantado, o rastreamento tem demonstrado uma incidência variada em determinadas partes do mundo.
 

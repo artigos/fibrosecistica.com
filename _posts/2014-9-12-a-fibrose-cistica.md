@@ -4,7 +4,7 @@ title: A Fibrose Cística
 permalink: a-fibrose-cistica
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A __Fibrose Cística__, também conhecida como Mucoviscidose, é uma doença genética autossómica (não ligada ao cromossoma x) recessiva (que são necessários para se manifestar mutações nos 2 cromossomas do par afectado) causada por um distúrbio nas secreções de algumas glândulas, nomeadamente as glândulas exócrinas (glândulas produtoras de muco).
 

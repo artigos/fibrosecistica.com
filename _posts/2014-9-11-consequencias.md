@@ -4,7 +4,7 @@ title: Consequências da Fibrose Cística
 permalink: fibrose-cistica-consequencias.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A nível do Sistema Respiratório e Pulmonar pode ocorrer:
 
@@ -26,14 +26,14 @@ Estas alterações das vias respiratórias descritas, influenciam o estado do pa
 
 A insuficiência respiratória crescente leva à respiração acelerada (taquipnéia) e dificultada (dispnéia), como também ao desenvolvimento de sinais de falta de oxigênio, como unhas em forma convexa e dedos e artelhos em martelo, às vezes mostra sinais de cianoses.
 
-##A nível do Pâncreas
+## A nível do Pâncreas
 
 As secreções espessas bloqueiam os conductos pancreáticos e produzem dilatações quísticas. Produzem-se câmbios degenerativos e fibróticos no pâncreas e as enzimas pancreáticas essenciais (tripsina, amilase e lipase) são incapazes de participar na absorção e digestão de alimentos.
 
-##A nível do Sistema Biliar
+## A nível do Sistema Biliar
 
 O bloqueio biliar e a fibrose são frequentes e “avançam” de forma progressiva para produzir um tipo de cirrose biliar.. A infecção hepática é extensa e pode ocorrer também hipertensão “portal” e “esplenomegalia”. A “ictenicia” pode ser uma evidência de obstrução da vesícula biliar.
 
-##A nível das glândulas não productoras de muco
+## A nível das glândulas não productoras de muco
 
 As secreções das glândulas salivares e sudoríparas têm uns níveis anormalmente altos de sódio e cloro.

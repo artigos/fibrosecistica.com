@@ -4,7 +4,7 @@ title: Fatores de Risco da Fibrose Cística
 permalink: fibrose-cistica-factores-de-risco.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os factores de risco para as DPCO poderão ser:
 
@@ -14,7 +14,7 @@ Os factores de risco para as DPCO poderão ser:
 * Infecções respiratórias víricas (principalmente pneumonias virais);
 * Factores familiares (exposição ao fumo do tabaco no ambiente doméstico na infância; deficiência do inibidor da alfa 1 antitripsina).
 
-##A Fibrose Cistica
+## A Fibrose Cistica
 
 A __fibrose cística__ é uma das doenças genéticas mais comum e fatal na raça branca.
 
